@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Black Leather 16</title>
+  <title>Bitter Peach 16</title>
   <style>
     @font-face {
-      font-family: 'Larida Black';
-      src: url('https://victorortizzz.github.io/fonts-hosting/Larida-Black.woff') format('woff');
+      font-family: 'Larida Regular';
+      src: url('https://victorortizzz.github.io/hostingRegular/Larida-Regular.woff') format('woff');
     }
 
     * {
@@ -20,7 +20,7 @@
       width: 100%;
       height: 100%;
       background: transparent;
-      font-family: 'Larida Black', sans-serif;
+      font-family: 'Larida Regular', sans-serif;
     }
 
     #container {
